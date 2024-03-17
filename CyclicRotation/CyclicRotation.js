@@ -18,5 +18,5 @@ function solution(A, K) {
         }
         return result;
     }
-    
+    return 0;
 }
